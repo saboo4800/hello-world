@@ -2,5 +2,4 @@ hello-world
 ===========
 
 Tradition?
-
-Jezus christ that was a strange process 
+That was a strange process 
